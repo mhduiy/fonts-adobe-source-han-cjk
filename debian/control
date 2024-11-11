@@ -1,0 +1,16 @@
+Source: fonts-adobe-source-han-cjk
+Section: fonts
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.1.3
+Homepage: http://www.deepin.org
+#Vcs-Browser: https://salsa.debian.org/debian/fonts-gb
+#Vcs-Git: https://salsa.debian.org/debian/fonts-gb.git
+
+
+Package: fonts-adobe-source-han-cjk
+Architecture: all
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: adobe source han cjk fonts

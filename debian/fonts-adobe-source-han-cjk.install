@@ -1,0 +1,5 @@
+#!/bin/bash
+fonts/SourceHanSansSC-Medium.otf /usr/share/fonts/opentype/source-han-cjk/
+fonts/SourceHanSansSC-Regular.otf /usr/share/fonts/opentype/source-han-cjk/
+fonts/SourceHanSerifSC-Medium.otf /usr/share/fonts/opentype/source-han-cjk/
+fonts/SourceHanSerifSC-Regular.otf /usr/share/fonts/opentype/source-han-cjk/
